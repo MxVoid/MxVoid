@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**MxVoid/MxVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋Hey, I'm a 17-year-old self-taught developer passionate about malware development, security research, and fun projects.
 
-Here are some ideas to get you started:
+## Main Focus
+- Malware development & research (educational purposes only)
+- Reverse engineering
+- Exploit development
+- Concepts and PoCs for different types of malware
+- Other random hobby projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything here is strictly for **learning and research**. I do not support or encourage malicious use.
+
+## Projects
+Check out the repos for personal projects, tools, proof-of-concept implementations, and security experiments.
+
+## Contact
+- GitHub Discussions or Issues
+
+
+Still learning every day.
